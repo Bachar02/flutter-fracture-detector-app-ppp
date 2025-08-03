@@ -1,0 +1,2 @@
+0 fractured bones
+1 intact bones
