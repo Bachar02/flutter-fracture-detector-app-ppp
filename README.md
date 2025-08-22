@@ -1,6 +1,7 @@
-# INSAT Fracture Detection App
+# PPP Fracture Detection App
 
-A Flutter mobile app that uses a Deep Learning model to detect bone fractures in X-ray images in real-time.
+A Flutter mobile app that uses a Deep Learning model to detect bone fractures in X-ray images in real-time. This project demonstrates the practical integration of AI capabilities into a production-ready mobile interface.
+
 
 ---
 
