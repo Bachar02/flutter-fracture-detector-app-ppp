@@ -1,16 +1,28 @@
-# ppp
+# INSAT Fracture Detection App
 
-A new Flutter project.
+A Flutter mobile app that uses a Deep Learning model to detect bone fractures in X-ray images in real-time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Real-Time Analysis:** Instant fracture detection.
+- **Save Favorites:** Bookmark important X-rays.
+- **Simple Interface:** Easy to use and navigate.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** - Frontend
+- **TensorFlow Lite** - ML Model
+- **Python** - Model Training
+
+---
+
+## 📱 App Demo
+
+Watch a quick 50-second demo of the app in action:
+
+The app allows you to import an X-ray image and get an instant AI-powered analysis to detect fractures. You can also save results to your favorites for later review.
+
+https://github.com/user-attachments/assets/6fdf40ba-9642-4641-b778-a7f0a2fa643d
+
